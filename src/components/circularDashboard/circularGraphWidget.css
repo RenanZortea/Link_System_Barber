@@ -1,0 +1,39 @@
+.widget {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  flex: 1 1 30%;
+  box-sizing: border-box;
+  padding: 20px;
+  max-width: 30%;
+}
+
+.progress-container {
+  width: 120px;
+  height: 120px;
+  position: relative;
+}
+
+.circular-progressbar {
+  width: 100%;
+  height: 100%;
+}
+
+.circular-progressbar .progressbar-path {
+  stroke-width: 8;
+}
+
+.circular-progressbar .progressbar-trail {
+  stroke-width: 8;
+}
+
+.circular-progressbar .progressbar-text {
+  font-size: 20px;
+  fill: #333;
+}
+
+.widget-title {
+  margin-top: 10px;
+  font-size: 16px;
+}

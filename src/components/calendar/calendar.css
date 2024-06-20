@@ -1,0 +1,154 @@
+.css-13ebml7{
+    color: rgb(0, 0, 0);
+}
+
+/*header */
+.css-1d8d7kz-MuiPaper-root {
+    background-color: rgba(255, 255, 255, 0.616) !important;
+    color: black !important;
+}
+
+/*body*/
+.css-73xuqe, .rs__header {
+    background-color: rgba(255, 255, 255, 0.1) !important; 
+    backdrop-filter: blur(10px)  !important;
+}
+
+.rs__cell {
+    background: rgba(255, 255, 255, 0.1)!important;
+}
+
+.dark .css-1cpvlp1,
+.dark .css-ynh6fk,
+.dark .css-y45l0d,
+.dark .css-2sg0r8,
+.dark .rs__cell,
+.dark .css-73xuqe, 
+.dark .rs__header,
+.dark .rs__header,
+.dark .css-1gyej37,
+.dark .rs__cell.rs__time,
+.dark .rs__cell,
+.dark .rs__header,
+.dark .rs__time,
+.dark .css-1d1h06e,
+.dark .css-1gyej37,
+.dark .css-l3bzu8,
+.dark .css-ncbr6b,
+.dark .css-ess3ih,
+.dark .css-s6u7kg,
+.dark .tabs,
+.dark .MuiTab-root,
+.dark .css-12rl710-MuiPaper-root-MuiDialog-paper,
+.dark .css-3dzjca-MuiPaper-root-MuiPopover-paper-MuiMenu-paper,
+.dark .css-1k4oq0i-MuiPaper-root-MuiPickersPopper-paper {
+    border-color: rgba(30, 41, 59, 0.1) !important;
+    background-color: rgba(30, 41, 59, 0) !important;
+    color: white !important;
+}
+
+.dark .css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root,
+.dark .css-154xyx0-MuiInputBase-root-MuiOutlinedInput-root,
+.dark .css-3dzjca-MuiPaper-root-MuiPopover-paper-MuiMenu-paper,
+.dark .css-1k4oq0i-MuiPaper-root-MuiPickersPopper-paper,
+.dark .css-1u23akw-MuiButtonBase-root-MuiPickersDay-root,
+.dark .css-1jy569b-MuiFormLabel-root-MuiInputLabel-root{
+    color: white !important;
+}
+
+.css-1cpvlp1,
+.css-ynh6fk,
+.css-y45l0d,
+.css-2sg0r8,
+.css-12rl710-MuiPaper-root-MuiDialog-paper,
+.css-3dzjca-MuiPaper-root-MuiPopover-paper-MuiMenu-paper,
+.css-1k4oq0i-MuiPaper-root-MuiPickersPopper-paper,
+.css-12rl710-MuiPaper-root-MuiDialog-paper,
+.css-3dzjca-MuiPaper-root-MuiPopover-paper-MuiMenu-paper,
+.css-1k4oq0i-MuiPaper-root-MuiPickersPopper-paper {
+    border-color: #f7f7f7 !important;
+    background-color: #ffffff !important;
+    color: black  !important;
+}
+
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root,
+.css-154xyx0-MuiInputBase-root-MuiOutlinedInput-root,
+.css-3dzjca-MuiPaper-root-MuiPopover-paper-MuiMenu-paper,
+.css-1k4oq0i-MuiPaper-root-MuiPickersPopper-paper,
+.css-1u23akw-MuiButtonBase-root-MuiPickersDay-root,
+.css-1jy569b-MuiFormLabel-root-MuiInputLabel-root{
+    color: #000000 !important;
+}
+
+
+
+
+
+.dark .MuiTypography-root{
+    color: rgb(226, 232, 240) !important;
+}
+
+
+/*texts*/
+.MuiTypography-root{
+    color: rgb(0, 0, 0) !important;
+}
+
+.css-12aktbw {
+    background-color: rgba(255, 255, 255, 0.01);
+}
+
+
+
+.MuiIconButton-root{
+    color: rgb(255, 255, 255);
+}
+
+.css-73xuqe{
+    color: white !important;
+    border-color: white !important;
+}
+
+.tabs{
+    color: white !important;
+    border-color: white !important;
+}
+
+.MuiTab-root{
+    border-color: white !important;
+}
+
+.css-s6u7kg{
+    color: white !important;
+    border-color: white !important;
+}
+
+.rs__cell{
+    color: white !important;
+    border-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.css-ess3ih{
+    color: white !important;
+    border-color: white !important;
+}
+
+.css-1d1h06e{
+    color: white !important;
+    border-color: white !important;
+}
+
+.css-1gyej37{
+    color: white !important;
+    border-color: white !important;
+}
+
+.css-l3bzu8{
+    color: white !important;
+    border-color: white !important;
+}
+
+.css-ncbr6b{
+    color: rgb(255, 255, 255) !important;
+    border-color: white !important;
+}

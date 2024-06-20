@@ -1,0 +1,42 @@
+.dashboard-container {
+  margin: 20px;
+}
+
+.dashboard {
+  padding: 20px;
+  border-radius: 5px;
+  color: #000000;
+}
+
+.dark .dashboard{
+  color:azure;
+}
+
+h1 {
+  text-align: center;
+}
+
+.widgets {
+  display: flex;
+  justify-content: space-between;
+}
+
+.widget {
+  flex: 1;
+  margin: 0 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.widget-content {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.widget-number {
+  font-size: 16px;
+}
+
+

@@ -1,0 +1,8 @@
+.react-tabs__tab--selected {
+  background-color: #d9d9d9; /* Green */
+  color: #000;
+}
+
+.dark .react-tabs__tab--selected {
+  background-color: rgb(51 65 85);
+}
